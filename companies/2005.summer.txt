@@ -37,3 +37,9 @@ TextPayMe
   An SMS payment service that lets you send money to other people using cell phone text messaging
   status: exited
   exit: Acquired by Amazon for ~$3MM.
+
+Grove HR
+  https://www.grovehr.com/
+   Grove HR is the best free HR platform for SMBs and Startups to take care of Recruitment, Onboarding, Time-tracking, Payroll, Performance review, and more.
+  status: 
+  exit: 
